@@ -14,9 +14,9 @@ An ARIMA model is characterized by 3 terms: $p$, $d$, and $q$.
 
 where,
 
-> - $p$ is the order of the AR term
-- $q$ is the order of the MA term
-- $d$ is the number of differencing required to make the time series stationary
+> - <em>p</em> is the order of the AR term
+- <em>q</em> is the order of the MA term
+- <em>d</em> is the number of differencing required to make the time series stationary
 
 
 So, what does the ‘order of AR term’ even mean? Before we go there, let’s first look at the ‘d’ term.

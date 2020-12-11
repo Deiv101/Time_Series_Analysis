@@ -23,7 +23,7 @@ where,
 > - <em>d</em> is the number of differencing required to make the time series stationary
 </ol>
 
-So, what does the ‘order of AR term’ even mean? Before we go there, let’s first look at the ‘d’ term.
+So, what does the <strong><em>order of AR term</em></strong> even mean? Before we go there, let’s first look at the ‘d’ term.
 
 
 ### What $p$, $d$ and $q$ in ARIMA model mean

@@ -26,7 +26,7 @@ where,
 So, what does the <strong><em>order of AR term</em></strong> even mean? Before we go there, let’s first look at the ‘d’ term.
 
 
-### What $p$, $d$ and $q$ in ARIMA model mean
+<h3>What <em>p, d and q</em> in ARIMA model mean</h3>
 
 The first step to build an ARIMA model is to make the time series stationary.
 

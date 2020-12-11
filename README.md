@@ -12,7 +12,7 @@ ARIMA, short for ‘Auto Regressive Integrated Moving Average’ is actually a c
 
 Any ‘non-seasonal’ time series that exhibits patterns and is not a random white noise can be modeled with ARIMA models.
 
-An ARIMA model is characterized by 3 terms: $p$, $d$, and $q$.
+An ARIMA model is characterized by 3 terms: *p*, *d*, and *q*.
 
 where,
 <ol>

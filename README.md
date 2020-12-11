@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
-Time_Series_Analysis
-Python ARIMA Model and Evaluation
+<h1>Time_Series_Analysis</h1>
+<h2>Python ARIMA Model and Evaluation<h2>
 
 # AutoRegressive Integrated Moving Average (ARIMA) Model
 

@@ -15,11 +15,12 @@ Any ‘non-seasonal’ time series that exhibits patterns and is not a random wh
 An ARIMA model is characterized by 3 terms: $p$, $d$, and $q$.
 
 where,
+<ol>
 
 > - <em>p</em> is the order of the AR term
-- <em>q</em> is the order of the MA term
-- <em>d</em> is the number of differencing required to make the time series stationary
-
+> - <em>q</em> is the order of the MA term
+> - <em>d</em> is the number of differencing required to make the time series stationary
+</ol>
 
 So, what does the ‘order of AR term’ even mean? Before we go there, let’s first look at the ‘d’ term.
 

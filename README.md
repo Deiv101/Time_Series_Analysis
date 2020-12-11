@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-<h1>Time_Series_Analysis</h1>
+    <head>Time_Series_Analysis</head>
+    
 <h2>Python ARIMA Model and Evaluation<h2>
 
 # AutoRegressive Integrated Moving Average (ARIMA) Model

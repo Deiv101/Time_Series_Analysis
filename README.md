@@ -13,14 +13,14 @@ ARIMA, short for ‘Auto Regressive Integrated Moving Average’ is actually a c
 
 Any <em>non-seasonal</em> time series that exhibits patterns and is not a random white noise can be modeled with ARIMA models.
 
-An ARIMA model is characterized by 3 terms: *p*, *d*, and *q*.
+An <strong>ARIMA model</strong> is characterized by 3 terms: *p*, *d*, and *q*,
 
 where,
 <ol>
 
-> - <em>p</em> is the order of the **AR** term
-> - <em>q</em> is the order of the **MA** term
-> - <em>d</em> is the number of differencing required to make the time series stationary
+> <li> <em>p</em> is the order of the **AR** term</li>
+> <li> <em>q</em> is the order of the **MA** term</li>
+> <li> <em>d</em> is the number of differencing required to make the time series stationary</li>
 </ol>
 
 So, what does the <strong><em>order of AR term</em></strong> even mean? Before we go there, let’s first look at the ‘d’ term.

@@ -17,8 +17,8 @@ An ARIMA model is characterized by 3 terms: $p$, $d$, and $q$.
 where,
 <ol>
 
-> - <em>p</em> is the order of the AR term
-> - <em>q</em> is the order of the MA term
+> - <em>p</em> is the order of the **AR** term
+> - <em>q</em> is the order of the **MA** term
 > - <em>d</em> is the number of differencing required to make the time series stationary
 </ol>
 

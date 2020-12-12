@@ -32,7 +32,7 @@ The first step to build an ARIMA model is to make the time series stationary.
 
 __Why?__
 
-Because the term ‘Auto Regressive(AR)’ in __AR__IMA means it is a linear regression model that uses its own lags as predictors. Linear regression models work best when the predictors are not correlated and are independent of each other.
+Because the term **‘Auto Regressive(AR)’** in ***AR__IMA*** means it is a linear regression model that uses its own lags as predictors. Linear regression models work best when the predictors are not correlated and are independent of each other.
 
 So how do we make a series stationary?
 
@@ -42,7 +42,7 @@ The value of <em>d</em>, therefore, is the minimum number of differencing needed
 
 Next, what are the *‘p’* and *‘q’* terms?
 
-‘p’ is the order of the __‘Auto Regressive’ (AR)__ term. It refers to the number of lags of $Y$ to be used as predictors. And ‘q’ is the order of the __‘Moving Average’ (MA)__ term. It refers to the number of lagged forecast errors that should go into the ARIMA Model.
+**‘p’** is the order of the **‘Auto Regressive’ (AR)** term. It refers to the number of lags of $Y$ to be used as predictors. And *‘q’* is the order of the **‘Moving Average’ (MA)** term. It refers to the number of lagged forecast errors that should go into the ARIMA Model.
 
 ### What are AR and MA models
 So what are AR and MA models?

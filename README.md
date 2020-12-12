@@ -38,7 +38,7 @@ So how do we make a series stationary?
 
 The most common approach is to difference it. That is, subtract the previous value from the current value. Sometimes, depending on the complexity of the series, more than one differencing may be needed.
 
-The value of $d$, therefore, is the minimum number of differencing needed to make the series stationary. And if the time series is already stationary, then $d = 0$.
+The value of <em>d</em>, therefore, is the minimum number of differencing needed to make the series stationary. And if the time series is already stationary, then $d = 0$.
 
 Next, what are the ‘p’ and ‘q’ terms?
 

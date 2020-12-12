@@ -40,7 +40,7 @@ The most common approach is to difference it. That is, subtract the previous val
 
 The value of <em>d</em>, therefore, is the minimum number of differencing needed to make the series stationary. And if the time series is already stationary, then $d = 0$.
 
-Next, what are the ‘p’ and ‘q’ terms?
+Next, what are the *‘p’* and *‘q’* terms?
 
 ‘p’ is the order of the __‘Auto Regressive’ (AR)__ term. It refers to the number of lags of $Y$ to be used as predictors. And ‘q’ is the order of the __‘Moving Average’ (MA)__ term. It refers to the number of lagged forecast errors that should go into the ARIMA Model.
 

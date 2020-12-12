@@ -47,7 +47,7 @@ Next, what are the *‘p’* and *‘q’* terms?
 ### What are AR and MA models
 So what are AR and MA models?
 
-A pure __Auto Regressive__ (AR only) model is one where $Y_t$ depends only on its own lags. That is, $Y_t$ is a function of the ‘lags of $Y_t$’. 
+A pure **Auto Regressive** (AR only) model is one where $Y_t$ depends only on its own lags. That is, $Y_t$ is a function of the ‘lags of $Y_t$’. 
 
 Here is the Mathematical formula:
 

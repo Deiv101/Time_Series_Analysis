@@ -55,7 +55,7 @@ Here is the Mathematical formula:
 $\epsilon_1$
     
    where, $Y_{t-1}$ is the lag1 of the series, $\beta_1$ is the coefficient of lag1 that the model estimates and $\alpha$ is the intercept term, also estimated by the model.
-   
+  
 
 Likewise a pure __Moving Average__ (MA only) model is one where $Y_t$ depends only on the lagged forecast errors.
 

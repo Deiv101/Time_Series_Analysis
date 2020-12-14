@@ -127,4 +127,4 @@ Goal
 -  The goal is to predict electricity demand/consumption from 2019 till 2050.
 
 ---
-</html>
+</html> 

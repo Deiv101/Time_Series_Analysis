@@ -48,7 +48,7 @@ warnings.filterwarnings('ignore')
 
 # For colored print outputs
 
-from termcolor import colored
+from termcolor import colored 
 
 
 # Print the graphs as PDF and PNG

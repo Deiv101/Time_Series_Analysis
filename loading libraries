@@ -73,6 +73,7 @@ from chart_studio.plotly import plot_mpl
 import plotly.express as px
 
 # Print the graphs as PDF and PNG
+
 from IPython.display import set_matplotlib_formats
 set_matplotlib_formats('png', 'pdf')
 # To have graphs embedded in the notebook

@@ -58,7 +58,7 @@ $\epsilon_1$
   
 
 Likewise a pure __Moving Average__ (MA only) model is one where $Y_t$ depends only on the lagged forecast errors.
-
+<img src="http://latex.codecogs.com/gif.latex?1+sin(x)" border="0"/>
 Mathematically represented thus:
 - $Y_t$ $=$ $\alpha$ $+$ $\epsilon_t$ $+$ $\phi_1$$\epsilon_{t-1}$ $+$ $\phi_2$$\epsilon_{t-2}$ $+$ $...$ $+$ $\phi_q$$\epsilon_{t-q}$
 

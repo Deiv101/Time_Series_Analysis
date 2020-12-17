@@ -49,14 +49,6 @@ So what are AR and MA models?
 
 A pure **Auto Regressive** (AR only) model is one where $Y_t$ depends only on its own lags. That is, $Y_t$ is a function of the ‘lags of $Y_t$’. 
 
-Here is the Mathematical formula:
-
-- $Y_t$ $=$ $\alpha$ $+$ $\beta_1$$Y_{t-1}$ $+$ $\beta_2$$Y_{t-2}$ $+$ $...$ $+$ $\beta_p$$Y_{t-p}$ $+$ 
-$\epsilon_1$
-    
-   where, $Y_{t-1}$ is the lag1 of the series, $\beta_1$ is the coefficient of lag1 that the model estimates and $\alpha$ is the intercept term, also estimated by the model.
-  
-
 Likewise a pure __Moving Average__ (MA only) model is one where $Y_t$ depends only on the lagged forecast errors.
 
 Mathematically represented thus:

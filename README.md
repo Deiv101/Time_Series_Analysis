@@ -137,7 +137,7 @@ Goal
 - Data preprocessing
 - Splitting data for training and testing
 - Preparing a classification model
-Assembling all of the steps using pipeline
+- Assembling all of the steps using pipeline
 Training the model
 Running predictions on the model
 Evaluating and visualizing model performance

@@ -118,7 +118,7 @@ Goal
 **Here are the steps to follow when building a Machine Learning Model**
 --
 
-- Data exploration
+- Data Exploration
 - Data preprocessing
 - Splitting data for training and testing
 - Preparing a classification model

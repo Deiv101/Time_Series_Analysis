@@ -63,10 +63,7 @@ $\epsilon_{t-1}$
 
 So what does the equation of an ARIMA model look like?
 
-An ARIMA model is one where the time series was differenced at least once to make it stationary and you combine the AR and the MA terms. So the equation becomes:
-- $Y_t$ $=$ $\alpha$ $+$ $\beta_1$$Y_{t-1}$ $+$ $\beta_2$$Y_{t-2}$ $+$ $...$ $+$ $\beta_p$$Y_{t-p}$ $+$ 
-$\epsilon_1$ $+$ $\phi_1$$\epsilon_{t-1}$ $+$ $\phi_2$$\epsilon_{t-2}$ $+$ $...$ $+$ $\phi_q$$\epsilon_{t-q}$.
-
+An ARIMA model is one where the time series was differenced at least once to make it stationary and you combine the AR and the MA terms.
 ARIMA model in words:
 
 Predicted $Y_t$ = Constant $+$ Linear combination Lags of $Y$ (upto $p$ lags) $+$ Linear Combination of Lagged forecast errors (upto $q$ lags)

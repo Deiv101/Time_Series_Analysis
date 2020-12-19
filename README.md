@@ -120,7 +120,7 @@ Goal
 
 - Data Exploration
 - Data Preprocessing
-- Splitting Data For training and testing
+- Splitting Data For Training and testing
 - Preparing a classification model
 - Assembling all of the steps using pipeline
 - Training the model

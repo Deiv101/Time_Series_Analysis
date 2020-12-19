@@ -51,9 +51,7 @@ A pure **Auto Regressive** (AR only) model is one where $Y_t$ depends only on it
 
 Likewise a pure __Moving Average__ (MA only) model is one where $Y_t$ depends only on the lagged forecast errors.
 
-where the error terms are the errors of the autoregressive models of the respective lags. The errors $\epsilon_t$ and $\epsilon_{t-1}$ are the errors from the following equations:
-- $Y_t$ $=$ $\beta_1$$Y_{t-1}$ $+$ $\beta_2$$Y_{t-2}$ $+$ $...$ $+$ $\beta_0$$Y_{0}$ $+$ 
-$\epsilon_1$
+where the error terms are the errors of the autoregressive models of the respective lags. 
 
 - $Y_{t-1}$ $=$ $\beta_1$$Y_{t-2}$ $+$ $\beta_2$$Y_{t-3}$ $+$ $...$ $+$ $\beta_0$$Y_{0}$ $+$ 
 $\epsilon_{t-1}$

@@ -66,6 +66,7 @@ Predicted $Y_t$ = Constant $+$ Linear combination Lags of $Y$ (upto $p$ lags) $+
 The objective, therefore, is to identify the values of $p$, $d$ and $q$. But the real question is, how?
 
 Let’s start with finding the $d$.
+
 ### How to find the order of differencing ($d$) in ARIMA model.
 
 The purpose of differencing it to make the time series stationary.

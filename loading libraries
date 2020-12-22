@@ -50,7 +50,6 @@ warnings.filterwarnings('ignore')
 
 from termcolor import colored 
 
-
 # Print the graphs as PDF and PNG
 from IPython.display import set_matplotlib_formats
 set_matplotlib_formats('png', 'pdf')

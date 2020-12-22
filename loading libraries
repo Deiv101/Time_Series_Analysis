@@ -22,7 +22,7 @@ import statsmodels.formula.api as smf
 import statsmodels.tsa.api as smt
 import statsmodels.api as sm
 import scipy.stats as scs
-from scipy.optimize import minimize                 # for function minimization
+from scipy.optimize import minimize                  # for function minimization
 from statsmodels.tsa.seasonal import seasonal_decompose
 
 # Visualization Libraries

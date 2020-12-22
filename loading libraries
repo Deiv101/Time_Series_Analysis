@@ -30,7 +30,7 @@ from statsmodels.tsa.seasonal import seasonal_decompose
 import matplotlib.pyplot as plt #plots
 import seaborn as sns # more plots
 plt.style.use('fivethirtyeight')
-# Above is a special style template for matplotlib, highly useful for visualizing time series data
+#Above is a special style template for matplotlib, highly useful for visualizing time series data
 
 # Visualization with Plotly
 

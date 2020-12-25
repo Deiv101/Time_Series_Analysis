@@ -34,7 +34,6 @@ from chart_studio.plotly import plot_mpl
 import plotly.express as px
 
 # Some Useful Functions
-
 from itertools import product
 from tqdm import tqdm_notebook
 import warnings                   # `do not disturb` mode

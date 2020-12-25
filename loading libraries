@@ -83,3 +83,4 @@ ts = data = pd.read_csv('AggregateElectricityData.csv')
 # get the first 5 rows
 ts.head()
 
+

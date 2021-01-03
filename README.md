@@ -51,10 +51,6 @@ Likewise a pure __Moving Average__ (MA only) model is one where *Y_t* depends on
 
 - where the error terms are the errors of the autoregressive models of the respective lags. 
 
-
-
-So what does the equation of an ARIMA model look like?
-
 An ARIMA model is one where the time series was differenced at least once to make it stationary and you combine the AR and the MA terms.
 ARIMA model in words:
 

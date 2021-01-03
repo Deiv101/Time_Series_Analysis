@@ -47,7 +47,7 @@ Next, what are the *‘p’* and *‘q’* terms?
 
 A pure **Auto Regressive** (AR only) model is one where *Y_t* depends only on its own lags. That is, *Y_t* is a function of the ‘lags of *Y_t*’. 
 
-Likewise a pure __Moving Average__ (MA only) model is one where Y_t depends only on the lagged forecast errors.
+Likewise a pure __Moving Average__ (MA only) model is one where *Y_t* depends only on the lagged forecast errors.
 
 - where the error terms are the errors of the autoregressive models of the respective lags. 
 

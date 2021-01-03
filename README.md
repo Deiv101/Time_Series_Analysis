@@ -60,7 +60,7 @@ The objective, therefore, is to identify the values of *p*, *d* and *q*. But the
 
 Let’s start with finding the *d*.
 
-### How to find the order of differencing ($d$) in ARIMA model.
+### How to find the order of differencing (*d*) in ARIMA model.
 
 The purpose of differencing it to make the time series stationary.
 

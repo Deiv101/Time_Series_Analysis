@@ -58,7 +58,7 @@ Predicted *Y_t* = Constant + Linear combination Lags of *Y* (upto *p* lags) + Li
 
 The objective, therefore, is to identify the values of *p*, *d* and *q*. But the real question is, how?
 
-Let’s start with finding the $d$.
+Let’s start with finding the *d*.
 
 ### How to find the order of differencing ($d$) in ARIMA model.
 

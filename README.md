@@ -56,7 +56,7 @@ ARIMA model in words:
 
 Predicted *Y_t* = Constant + Linear combination Lags of *Y* (upto *p* lags) + Linear Combination of Lagged forecast errors (upto *q* lags)
 
-The objective, therefore, is to identify the values of *p*, *d* and $q$. But the real question is, how?
+The objective, therefore, is to identify the values of *p*, *d* and *q*. But the real question is, how?
 
 Let’s start with finding the $d$.
 

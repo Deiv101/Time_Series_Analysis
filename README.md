@@ -80,7 +80,7 @@ First, I am going to check if the series is stationary using the __Augmented Dic
 
 Why?
 
-Because, you need differencing only if the series is non-stationary. Else, no differencing is needed, that is, d=0.
+Because, you need differencing only if the series is non-stationary. Else, no differencing is needed, that is, `d=0`.
 
 The null hypothesis of the ADF test is that the time series is non-stationary. So, if the p-value of the test is less than the significance level (0.05) then you reject the null hypothesis and infer that the time series is indeed stationary.
 

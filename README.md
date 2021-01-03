@@ -88,9 +88,9 @@ So, in our case, if `p_value` > 0.05 we go ahead with finding the order of diffe
 
 
 ---
-About the Dataset
+`About the Dataset`
 ---
-The dataset used in this notebook was supplied by Mr. Kanono Thabane, which he obtained from Lesotho Electricity Company (LEC), the sole distributor of electricity in Lesotho. 
+The dataset used in this notebook was supplied by The Lesotho Electricity Company, the sole distributor of electricity in Lesotho. 
 
 
 ---

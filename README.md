@@ -54,7 +54,7 @@ Likewise a pure __Moving Average__ (MA only) model is one where *Y_t* depends on
 An ARIMA model is one where the time series was differenced at least once to make it stationary and you combine the AR and the MA terms.
 ARIMA model in words:
 
-Predicted *Y_t* = Constant + Linear combination Lags of $Y$ (upto $p$ lags) $+$ Linear Combination of Lagged forecast errors (upto $q$ lags)
+Predicted *Y_t* = Constant + Linear combination Lags of *Y* (upto $p$ lags) $+$ Linear Combination of Lagged forecast errors (upto $q$ lags)
 
 The objective, therefore, is to identify the values of $p$, $d$ and $q$. But the real question is, how?
 

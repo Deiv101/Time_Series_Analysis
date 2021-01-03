@@ -42,7 +42,7 @@ The value of <em>d</em>, therefore, is the minimum number of differencing needed
 
 Next, what are the *‘p’* and *‘q’* terms?
 
-**‘p’** is the order of the **‘Auto Regressive’ (AR)** term. It refers to the number of lags of $Y$ to be used as predictors. And *‘q’* is the order of the **‘Moving Average’ (MA)** term. It refers to the number of lagged forecast errors that should go into the ARIMA Model.
+**‘p’** is the order of the **‘Auto Regressive’ (AR)** term. It refers to the number of lags of *Y* to be used as predictors. And *‘q’* is the order of the **‘Moving Average’ (MA)** term. It refers to the number of lagged forecast errors that should go into the ARIMA Model.
 
 
 A pure **Auto Regressive** (AR only) model is one where $Y_t$ depends only on its own lags. That is, $Y_t$ is a function of the ‘lags of $Y_t$’. 

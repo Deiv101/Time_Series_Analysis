@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <head>Time Series Analysis
+    Time Series Analysis
     
 <h2>Python ARIMA Model and Evaluation<h2>
 

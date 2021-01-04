@@ -3,7 +3,7 @@
     <h1>Time Series Analysis</h1>
     
 <h3>Python ARIMA Model and Evaluation<h3>
-__
+
 
 >> <h4>AutoRegressive Integrated Moving Average (ARIMA) Model</h4>
 

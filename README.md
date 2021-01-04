@@ -35,7 +35,7 @@ __Why?__
 
 Because the term **‘Auto Regressive(AR)’** in ***AR__IMA*** means it is a linear regression model that uses its own lags as predictors. Linear regression models work best when the predictors are not correlated and are independent of each other.
 
-**So how do we make a series stationary?**
+**`So how do we make a series stationary?`**
 **Differencing**
 The most common approach is to difference it. That is, subtract the previous value from the current value. Sometimes, depending on the complexity of the series, more than one differencing may be needed.
 

@@ -111,7 +111,7 @@ _'Aggregate Electricity Consumption/Sale'_ dataset, as mentioned above, comes fr
 </html> 
 
 
-**Here are the steps to follow when building a Machine Learning Model**
+**`Here are the steps to follow when building a Machine Learning Model`**
 --
 
 - Data Exploration

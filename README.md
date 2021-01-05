@@ -38,7 +38,7 @@ Because the term **‘Auto Regressive(AR)’** in ***AR__IMA*** means it is a li
 **`So how do we make a series stationary?`**
 
 
-**Differencing**
+**`Differencing`**
 The most common approach is to difference it. That is, subtract the previous value from the current value. Sometimes, depending on the complexity of the series, more than one differencing may be needed.
 
 The value of <em>d</em>, therefore, is the minimum number of differencing needed to make the series stationary. And if the time series is already stationary, then *d = 0*.

@@ -79,7 +79,7 @@ In the event, you can’t really decide between two orders of differencing, then
 
 Let’s see how to do it with an example.
 
-First, I am going to check if the series is stationary using the __Augmented Dickey Fuller test__ (`adfuller()`), from the statsmodels package.
+First, I am going to check if the series is stationary using the __`Augmented Dickey Fuller test`__, from the statsmodels package.
 
 Why?
 

@@ -88,7 +88,7 @@ Because, you need differencing only if the series is non-stationary. Else, no di
 
 The null hypothesis of the ADF test is that the time series is non-stationary. So, if the p-value of the test is less than the significance level (0.05) then you reject the null hypothesis and infer that the time series is indeed stationary.
 
-So, in our case, if `p_value` > 0.05 we go ahead with finding the order of differencing.
+So, in our case, if `p_value` > `0.05` we go ahead with finding the order of differencing.
 
 
 ---

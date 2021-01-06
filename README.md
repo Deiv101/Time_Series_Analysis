@@ -21,7 +21,7 @@ where,
 
 <li> <em>p</em> is the order of the <em>AR</em> term</li>
 <li> <em>q</em> is the order of the <em>MA</em> term</li>
-> <li> <em>d</em> is the number of differencing required to make the time series stationary</li>
+<li> <em>d</em> is the number of differencing required to make the time series stationary</li>
 </ol>
 
 So, what does the <strong><em>order of AR term</em></strong> even mean? Before we go there, let’s first look at the ‘d’ term.

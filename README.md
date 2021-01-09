@@ -32,7 +32,7 @@ The first step to build an ARIMA model is to make the time series stationary.
 
 __Why?__
 
-Because the term **‘Auto Regressive(AR)’** in ***  `AR`IMA*** means it is a linear regression model that uses its own lags as predictors. Linear regression models work best when the predictors are not correlated and are independent of each other.
+Because the term **‘Auto Regressive(AR)’** in ***`AR`IMA*** means it is a linear regression model that uses its own lags as predictors. Linear regression models work best when the predictors are not correlated and are independent of each other.
 
 **`So how do we make a series stationary?`**
 

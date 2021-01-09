@@ -12,7 +12,7 @@ So what exactly is an `ARIMA model`?
 
 **`ARIMA`**, short for ‘Auto Regressive Integrated Moving Average’ is actually a class of models that <em>'explains’</em> a given time series based on its own past values, that is, its own lags and the lagged forecast errors (in Machine Learning terms), so that equation can be used to forecast future values.
 
-Any <em>non-seasonal</em> time series that exhibits patterns and is not a random white noise can be modeled with ARIMA models. 
+Any <em>non-seasonal</em> time series that exhibits patterns and is not a random white noise can be modeled with ARIMA models.  
 
 An <strong>ARIMA model</strong> is characterized by 3 terms: *p*, *d*, and *q*,
 

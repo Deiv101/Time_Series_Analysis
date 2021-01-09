@@ -17,6 +17,7 @@ Any <em>non-seasonal</em> time series that exhibits patterns and is not a random
 An <strong>ARIMA model</strong> is characterized by 3 terms: *p*, *d*, and *q*,
 
 where,
+
 <ol>
 <li> <em>p</em> is the order of the <em>AR</em> term</li>
 <li> <em>q</em> is the order of the <em>MA</em> term</li>

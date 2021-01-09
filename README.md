@@ -8,7 +8,7 @@
 
 ---
 >> <h4>AutoRegressive Integrated Moving Average (ARIMA) Model</h4>
-
+---
 ### `Introduction to ARIMA Models` 
 So what exactly is an `ARIMA model`?  
 

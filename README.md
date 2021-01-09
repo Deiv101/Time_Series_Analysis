@@ -43,7 +43,7 @@ Because the term **‘Auto Regressive(AR)’** in ***`AR`IMA*** means it is a li
 The most common approach is to difference it. That is, subtract the previous value from the current value. Sometimes, depending on the complexity of the series, more than one differencing may be needed.
 
 The value of <em>d</em>, therefore, is the minimum number of differencing needed to make the series stationary. And if the time series is already stationary, then *d = 0*.
-
+ 
 Next, what are the *‘p’* and *‘q’* terms?
 
 **‘p’** is the order of the **‘Auto Regressive’ (AR)** term. It refers to the number of lags of *Y* to be used as predictors. And *‘q’* is the order of the **‘Moving Average’ (MA)** term. It refers to the number of lagged forecast errors that should go into the ARIMA Model.

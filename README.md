@@ -7,7 +7,7 @@
 
 >> <h4>AutoRegressive Integrated Moving Average (ARIMA) Model</h4>
 
-### `Introduction to ARIMA Models`
+### `Introduction to ARIMA Models` 
 So what exactly is an `ARIMA model`?  
 
 **`ARIMA`**, short for ‘Auto Regressive Integrated Moving Average’ is actually a class of models that <em>'explains’</em> a given time series based on its own past values, that is, its own lags and the lagged forecast errors (in Machine Learning terms), so that equation can be used to forecast future values.

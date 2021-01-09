@@ -115,7 +115,7 @@ _'Aggregate Electricity Consumption/Sale'_ dataset, as mentioned above, comes fr
 --
 
 - - Data Exploration
-- Data Preprocessing
+- - Data Preprocessing
 - Splitting Data For Training and Testing
 - Preparing ARIMA model
 - Assembling all of the steps using pipeline

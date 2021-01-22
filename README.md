@@ -7,7 +7,7 @@
 <h3>Python ARIMA Model and Evaluation<h3>   
  
 ---
->> <h4>AutoRegressive Integrated Moving Average (ARIMA) Model</h4>
+> <h4>AutoRegressive Integrated Moving Average (ARIMA) Model</h4>
 ---
 ### `Introduction to ARIMA Models`  
 So what exactly is an `ARIMA model`?  

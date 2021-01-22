@@ -1,6 +1,6 @@
 
 ---
-<!DOCTYPE html>  
+<!DOCTYPE html>   
 <html> 
     <h1>Time Series Analysis</h1>   
     

@@ -1,6 +1,6 @@
 # Importing essential starter libraries
 import numpy as np      # vectors and matrices
-import pandas as pd     # tables and data manipulations
+import pandas as pd     # tables and data manipulations 
 
 # For Dates
 import datetime
